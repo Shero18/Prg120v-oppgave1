@@ -1,3 +1,4 @@
+
 <?php  /* slett-student */
 /*
   Programmet lager et skjema for å velge en student som skal slettes

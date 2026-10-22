@@ -1,3 +1,4 @@
+
 <?php  /* vis-alle-studenter */
 /*
   Programmet skriver ut alle registrerte studenter
